@@ -1,0 +1,10 @@
+com\practica\ProyectoSpringMongo\Controller\PersonaController.class
+com\practica\ProyectoSpringMongo\Service\GenericService.class
+com\practica\ProyectoSpringMongo\Model\Persona.class
+com\practica\ProyectoSpringMongo\Service\PersonaService.class
+com\practica\ProyectoSpringMongo\Model\Contactos.class
+com\practica\ProyectoSpringMongo\Service\GenericServiceImpl.class
+com\practica\ProyectoSpringMongo\Model\Telefonia.class
+com\practica\ProyectoSpringMongo\Service\PersonaServiceImpl.class
+com\practica\ProyectoSpringMongo\ProyectoSpringMongoApplication.class
+com\practica\ProyectoSpringMongo\Repository\PersonaRepository.class
